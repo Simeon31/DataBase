@@ -1,0 +1,1 @@
+SELECT name AS 'Name' FROM library.borrowers ORDER BY name DESC;

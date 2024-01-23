@@ -1,0 +1,1 @@
+SELECT title AS 'Title' FROM library.books ORDER BY title ASC;

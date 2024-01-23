@@ -1,0 +1,1 @@
+SELECT date_out FROM library.loans ORDER BY date_out ASC;
